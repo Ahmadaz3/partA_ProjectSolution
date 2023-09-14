@@ -1,0 +1,8 @@
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\obj\Debug\ServerSide.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+C:\Users\USER\Desktop\ProjectInterview\ProjectTest1\ServerSide\ServerSide\obj\Debug\ServerSide.pdb
